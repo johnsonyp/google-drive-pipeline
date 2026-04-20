@@ -1,0 +1,10 @@
+[project]
+name = "google-drive-pipeline"
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "google-api-python-client==2.111.0",
+    "google-auth==2.25.2",
+    "pandas==2.2.3"
+]
